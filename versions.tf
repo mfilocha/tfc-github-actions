@@ -11,7 +11,7 @@ terraform {
   backend "remote" {
     organization = "mfilocha"
     workspaces {
-      name = "tfc-guide-example"
+      name = "tfc-github-actions"
     }
   }
 

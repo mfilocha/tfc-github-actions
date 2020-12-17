@@ -1,3 +1,3 @@
 provider "random" {}
 
-resource "random_pet" "test_name2" {}
+resource "random_pet" "test_name1" {}
